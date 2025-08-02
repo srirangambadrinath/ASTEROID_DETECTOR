@@ -1,9 +1,0 @@
-Mission: GSLV F16 
-Launch Time: 05:32:15 UTC 
-Target Orbit: GTO (Geosynchronous Transfer Orbit) 
-Apogee: 35,786 km 
-Perigee: 180 km 
-Inclination: 21.5 degrees 
-Payload Mass: 2,000 kg 
-Guidance System: SIM-2048 
-Mission Control Handed Over

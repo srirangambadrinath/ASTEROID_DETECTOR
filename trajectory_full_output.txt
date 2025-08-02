@@ -1,8 +1,0 @@
--------------------------------------------------- 
-          GSLV F16 -  TRAJECTORY LOG          
--------------------------------------------------- 
-Time(s)   Altitude(km)   Velocity(m/s)   Accel(m/s2)   Stage 
--------------------------------------------------- 
-T+0s    1 km    15 m/s    15 m/s2    Stage 1
-T+5s    4 km    30 m/s    15 m/s2    Stage 1
-T+10s    8 km    45 m/s    15 m/s2    Stage 1
