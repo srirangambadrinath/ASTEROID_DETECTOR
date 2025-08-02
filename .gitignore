@@ -1,0 +1,23 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Environment and log files
+*.env
+*.log
+
+# PyTorch model files
+*.pt
+
+# VS Code settings
+.vscode/
+
+# System-specific files
+.DS_Store
+Thumbs.db
+
+# Output files
+*.zip
+*.out
+*.exe
